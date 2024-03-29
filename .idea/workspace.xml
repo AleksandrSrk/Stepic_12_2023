@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a1965bac-0e15-4ec2-ad62-0b254b4d1071" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/_00_Arrays_Tasks/Arrays.java" afterDir="false" />
@@ -19,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -40,7 +46,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Task_01">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_00_Arrays_Tasks.Arrays" />
       <module name="_01_Stepik_12_2023_AndroidStart" />
@@ -54,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_00_Arrays_Tasks.Task_01" />
+      <module name="_01_Stepik_12_2023_AndroidStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_00_Arrays_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_01" />
         <item itemvalue="Application.Arrays" />
       </list>
     </recent_temporary>
